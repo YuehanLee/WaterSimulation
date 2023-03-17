@@ -1,0 +1,62 @@
+﻿  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  helper.cpp
+  main.cpp
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(54,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(65,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(66,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(70,42): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(612,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(615,8): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(165,24): warning C4244: '=': conversion from 'const _Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(367,1): warning C4305: 'argument': truncation from 'double' to 'const float'
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(395,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(573,40): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(574,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(575,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(678,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(679,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(685,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(686,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(687,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(688,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(689,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(690,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(691,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(692,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(873,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(892,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(893,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(939,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(940,14): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(1049,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\src\main.cpp(1050,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  objGen.cpp
+  triangle.cpp
+  Generating Code...
+  glad.c
+glfw3.lib(init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(input.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(input.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_window.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_window.obj)' or at ''; linking object as if no debug info
+glfw3.lib(context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_init.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_init.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_monitor.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_monitor.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_time.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_time.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_thread.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_thread.obj)' or at ''; linking object as if no debug info
+glfw3.lib(vulkan.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(vulkan.obj)' or at ''; linking object as if no debug info
+glfw3.lib(win32_joystick.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(win32_joystick.obj)' or at ''; linking object as if no debug info
+glfw3.lib(wgl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(wgl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(egl_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(egl_context.obj)' or at ''; linking object as if no debug info
+glfw3.lib(osmesa_context.obj) : warning LNK4099: PDB '' was not found with 'glfw3.lib(osmesa_context.obj)' or at ''; linking object as if no debug info
+  WaterSimulation.vcxproj -> C:\Users\18052\OneDrive\Desktop\Intern\water-simulation-master\x64\Debug\WaterSimulation.exe
